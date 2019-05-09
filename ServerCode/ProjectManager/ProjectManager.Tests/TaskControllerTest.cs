@@ -31,8 +31,8 @@ namespace ProjectManager.Test
             users.Add(new DAC.User()
             {
                 Employee_ID = "414942",
-                First_Name = "Gaganeswar",
-                Last_Name = "Rana",
+                First_Name = "Somnath",
+                Last_Name = "Dey",
                 User_ID = 123,
                 Task_ID = 1
             });
@@ -167,8 +167,8 @@ namespace ProjectManager.Test
                 Status = 0,
                 User = new User()
                 {
-                    FirstName = "Gaganeswar",
-                    LastName = "Rana",
+                    FirstName = "Somnath",
+                    LastName = "Dey",
                     EmployeeId = "123456",
                     UserId = 123
                 }
@@ -235,8 +235,8 @@ namespace ProjectManager.Test
             users.Add(new DAC.User()
             {
                 Employee_ID = "414942",
-                First_Name = "Gaganeswar",
-                Last_Name = "Rana",
+                First_Name = "Somnath",
+                Last_Name = "Dey",
                 User_ID = 123,
                 Task_ID = 12345,
                 Project_ID = 1234
