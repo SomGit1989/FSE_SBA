@@ -64,3 +64,18 @@
     height: 10rem;
 
 }
+.navbar-brand> h2
+{
+    font-size: 4rem;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #d1e2f1;
+    font-size: 1.2rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #16770f;
+    border-color: #16770f;
+}
